@@ -55,7 +55,7 @@ const myChart = new Chart(scchart, {
       x: {
         title: {
           display: true,
-          text: 'Doomer ← → Optimist',
+          text: 'Doomer / Optimist',
         },
         min: -1,
         max: 1,
@@ -67,7 +67,7 @@ const myChart = new Chart(scchart, {
       y: {
         title: {
           display: true,
-          text: 'Logic ← → Emotion'
+          text: 'Logic / Emotion'
         },
         min: -1,
         max: 1,
